@@ -1,0 +1,23 @@
+.top-container {
+    background: linear-gradient(300deg, #b1a6a6, #f8f2eb, #646161);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+
+.samurai-img{
+    height: 400px;
+    border-radius: 50%;
+    padding-top: 10px;
+    
+}
+
+.title-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
